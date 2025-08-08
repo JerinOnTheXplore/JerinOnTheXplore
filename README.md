@@ -138,26 +138,13 @@
 🔹 **Live Demo:** [Explore Here](https://online-group-study-e3eaf.web.app)  
 🔹 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-🔹**README File:** https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-JerinOnTheXplore/blob/main/README.md
-
 
 ### 3️⃣ Plant Care Tracker  
 🔹 **Description:** Full CRUD plant care tracker built with React and Express, featuring responsive design and personalized plant management.
-
-🔹 **Overview:** Helps users track watering schedules and plant health with a clean, user-friendly interface.
-
-<img src="https://i.ibb.co.com/Ng8XMT4G/plant.png" alt="plant Image" style="width: 30%; border-radius: 15px; filter: brightness(0.8);" />
 
 🔹 **Live Demo:** [Explore Here](https://plant-care-tracker-80dfe.web.app)  
 🔹 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-🔹**README File:** https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-JerinOnTheXplore/blob/main/README.md
-
-🔹 **Core Features:**
-
-   ⬛⬜ Add, Edit & Delete Personal Plants
-
-🔹**Dependencies:** react-router, react-tooltip
 
 ⭐ Thanks for visiting my profile! Keep exploring & keep coding! 🚀
