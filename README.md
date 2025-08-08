@@ -32,6 +32,11 @@
 ⬛⬜ 🔭 Currently working on a **Tourism Flow** project.  
 ⬛⬜ 🌱 Exploring **Next.js**, **TanStack Query**, and modern React patterns.  
 ⬛⬜ 🎯 Goal: To become a proficient **MERN Stack Developer** building impactful apps.  
+⬛⬜ 📫 Contact Me
+
+📧 Email: jerinjerin101325@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/nasrinjerin](https://www.linkedin.com/in/nasrinjerin)  
+🌐 Portfolio: [http://vivacious-rain.surge.sh](http://vivacious-rain.surge.sh)
 
 </div>
 
