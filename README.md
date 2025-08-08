@@ -3,7 +3,7 @@
 <p align="center" style="position: relative; max-width: 900px; margin: auto;">
 
   <!-- Banner Image -->
-  <img src="https://i.ibb.co.com/GQrry0dc/Black-and-Blue-Elegant-Simple-Group-Project-Presentation-1.jpg" alt="Banner Image" style="width: 100%; border-radius: 15px; filter: brightness(0.8);" />
+  <img src="https://i.ibb.co.com/q3w9hFDP/Black-and-Blue-Elegant-Simple-Group-Project-Presentation-2.jpg" alt="Banner Image" style="width: 100%; border-radius: 15px; filter: brightness(0.8);" />
 
 
 <!-- About Me Section with glassmorphism card style -->
