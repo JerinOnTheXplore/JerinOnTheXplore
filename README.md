@@ -126,35 +126,18 @@
 
 ### 1️⃣ Tourism Website  
 🔹 **Description:** A full-stack tourism management system with React, Express, and MongoDB, featuring booking, user roles, and admin controls. 
-
-🔹 **Overview:** A modern tourism booking platform with features including user roles (admin/user), booking system, and admin panel.
- 
-
-<img src="https://i.ibb.co.com/tTN6M8D6/tourism.jpg" alt="tour Image" style="width: 20%; border-radius: 15px; filter: brightness(0.8);" />
-
-
 🔹 **Live Demo:** [Explore Here](https://tourism-flow.web.app)  
 🔹 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-🔹**README File:** https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-JerinOnTheXplore/blob/main/README.md
-
-🔹 **Core Features:** 
-   ⬛⬜**User Role Management** Supports three roles: Tourist, Tour Guide, and Admin with protected dashboards.
-   
-   ⬛⬜**Payment Integration** Secure Stripe-based payment gateway for booking confirmations.
-
-🔹**Dependencies:** react-router, axios, TanStack Query,ReactPaginate
-
-
 ### 2️⃣ Online Group Study 
 🔹 **Description:** A MERN stack platform for group assignments, submission, and grading with JWT auth and dynamic routing. 
 
 🔹 **Overview:** Facilitates collaborative group study with secure login and role-based content management.
 
-<img src="https://i.ibb.co.com/jkDCJ5rc/group.png" alt="study Image" style="width: 30%; border-radius: 15px; filter: brightness(0.8);" />
+<img src="https://i.ibb.co.com/rD5KYPj/visitor.png" alt="study Image" style="width: 30%; border-radius: 15px; filter: brightness(0.8);" />
 
 🔹 **Live Demo:** [Explore Here](https://online-group-study-e3eaf.web.app)  
 🔹 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
