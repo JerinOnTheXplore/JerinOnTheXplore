@@ -112,7 +112,14 @@
 ## 📌 Featured Projects
 
 ### 1️⃣ Tourism Website  
-🔹 **Description:** A full-stack tourism management system with React, Express, and MongoDB, featuring booking, user roles, and admin controls.  
+🔹 **Description:** A full-stack tourism management system with React, Express, and MongoDB, featuring booking, user roles, and admin controls. 
+
+🔹 **Overview:** A modern tourism booking platform with features including user roles (admin/user), booking system, and admin panel.
+ 
+
+<img src="https://i.ibb.co.com/Pv4DrYgc/touris.png" alt="tour Image" style="width: 50%; border-radius: 15px; filter: brightness(0.8);" />
+
+
 🔹 **Live Demo:** [Explore Here](https://tourism-flow.web.app)  
 🔹 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
@@ -121,12 +128,22 @@
 
 ### 2️⃣ Online Group Study 
 🔹 **Description:** A MERN stack platform for group assignments, submission, and grading with JWT auth and dynamic routing. 
+
+🔹 **Overview:** Facilitates collaborative group study with secure login and role-based content management.
+
+<img src="https://i.ibb.co.com/jkDCJ5rc/group.png" alt="study Image" style="width: 50%; border-radius: 15px; filter: brightness(0.8);" />
+
 🔹 **Live Demo:** [Explore Here](https://online-group-study-e3eaf.web.app)  
 🔹 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 
 ### 3️⃣ Plant Care Tracker  
-🔹 **Description:** Full CRUD plant care tracker built with React and Express, featuring responsive design and personalized plant management.  
+🔹 **Description:** Full CRUD plant care tracker built with React and Express, featuring responsive design and personalized plant management.
+
+🔹 **Overview:** Helps users track watering schedules and plant health with a clean, user-friendly interface.
+
+<img src="https://i.ibb.co.com/Ng8XMT4G/plant.png" alt="plant Image" style="width: 50%; border-radius: 15px; filter: brightness(0.8);" />
+
 🔹 **Live Demo:** [Explore Here](https://plant-care-tracker-80dfe.web.app)  
 🔹 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
