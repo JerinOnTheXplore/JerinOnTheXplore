@@ -117,8 +117,10 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JerinOnTheXplore&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://activity-graph.vercel.app/graph?username=JerinOnTheXplore&theme=react-dark&area=true" alt="Contribution Graph" height="160" />
 </p>
+
+
 
 ## 📌 Featured Projects
 
