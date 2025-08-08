@@ -117,7 +117,7 @@
 🔹 **Overview:** A modern tourism booking platform with features including user roles (admin/user), booking system, and admin panel.
  
 
-<img src="https://i.ibb.co.com/Pv4DrYgc/touris.png" alt="tour Image" style="width: 50%; border-radius: 15px; filter: brightness(0.8);" />
+<img src="https://i.ibb.co.com/tTN6M8D6/tourism.jpg" alt="tour Image" style="width: 20%; border-radius: 15px; filter: brightness(0.8);" />
 
 
 🔹 **Live Demo:** [Explore Here](https://tourism-flow.web.app)  
@@ -126,15 +126,35 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+🔹**README File:** https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-JerinOnTheXplore/blob/main/README.md
+
+🔹 **Core Features:** 
+   ⬛⬜**User Role Management** Supports three roles: Tourist, Tour Guide, and Admin with protected dashboards.
+   
+   ⬛⬜**Payment Integration** Secure Stripe-based payment gateway for booking confirmations.
+
+🔹**Dependencies:** react-router, axios, TanStack Query,ReactPaginate
+
+
 ### 2️⃣ Online Group Study 
 🔹 **Description:** A MERN stack platform for group assignments, submission, and grading with JWT auth and dynamic routing. 
 
 🔹 **Overview:** Facilitates collaborative group study with secure login and role-based content management.
 
-<img src="https://i.ibb.co.com/jkDCJ5rc/group.png" alt="study Image" style="width: 50%; border-radius: 15px; filter: brightness(0.8);" />
+<img src="https://i.ibb.co.com/jkDCJ5rc/group.png" alt="study Image" style="width: 30%; border-radius: 15px; filter: brightness(0.8);" />
 
 🔹 **Live Demo:** [Explore Here](https://online-group-study-e3eaf.web.app)  
 🔹 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+🔹**README File:** https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-JerinOnTheXplore/blob/main/README.md
+
+🔹 **Core Features:**
+
+  ⬛⬜  **JWT-Based Authentication:** Secure login & registration system with role-based access.
+  
+  ⬛⬜  **Submission System:** Students can submit answers with a Google Docs link and note. Submissions are initially marked as "Pending".
+
+🔹**Dependencies:** react-router, Swiper
 
 
 ### 3️⃣ Plant Care Tracker  
@@ -142,10 +162,18 @@
 
 🔹 **Overview:** Helps users track watering schedules and plant health with a clean, user-friendly interface.
 
-<img src="https://i.ibb.co.com/Ng8XMT4G/plant.png" alt="plant Image" style="width: 50%; border-radius: 15px; filter: brightness(0.8);" />
+<img src="https://i.ibb.co.com/Ng8XMT4G/plant.png" alt="plant Image" style="width: 30%; border-radius: 15px; filter: brightness(0.8);" />
 
 🔹 **Live Demo:** [Explore Here](https://plant-care-tracker-80dfe.web.app)  
 🔹 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+🔹**README File:** https://github.com/Programming-Hero-Web-Course4/b11a10-client-side-JerinOnTheXplore/blob/main/README.md
+
+🔹 **Core Features:**
+
+   ⬛⬜ Add, Edit & Delete Personal Plants
+
+🔹**Dependencies:** react-router, react-tooltip
 
 ⭐ Thanks for visiting my profile! Keep exploring & keep coding! 🚀
