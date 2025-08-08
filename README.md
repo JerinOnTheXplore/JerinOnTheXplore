@@ -109,6 +109,17 @@
   </a>
 </p>
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JerinOnTheXplore&show_icons=true&theme=tokyonight" alt="Jerin's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerinOnTheXplore&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JerinOnTheXplore&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
 ## 📌 Featured Projects
 
 ### 1️⃣ Tourism Website  
