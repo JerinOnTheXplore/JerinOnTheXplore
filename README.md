@@ -77,11 +77,6 @@
 
 ### 🔧 Tools & Platforms  
 <div align="center">
-
-<a href="https://git-scm.com/" title="Git" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" style="margin:10px; filter: drop-shadow(0 1px 2px #f05032);" />
-</a>
-
 <a href="https://github.com/" title="GitHub" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" style="margin:10px; filter: drop-shadow(0 1px 2px #181717);" />
 </a>
