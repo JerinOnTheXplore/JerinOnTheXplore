@@ -22,11 +22,11 @@
 
 ### 💫 About Me  
 
-⬛⬜ As an aspiring frontend developer, I focus on building engaging and accessible web interfaces that provide great user experiences ⬛⬜  
+⬛⬜ As an aspiring frontend developer, I focus on building engaging and accessible web interfaces that provide great user experiences  
 
-⬛⬜ I am continually learning modern tools and frameworks like React, Tailwind CSS, and Node.js to enhance my development skills ⬛⬜  
+⬛⬜ I am continually learning modern tools and frameworks like React, Tailwind CSS, and Node.js to enhance my development skills  
 
-⬛⬜ Alongside my tech journey, I am also pursuing my academic passion in Food & Nutrition ⬛⬜ 
+⬛⬜ Alongside my tech journey, I am also pursuing my academic passion in Food & Nutrition
 
 
 ⬛⬜ 🔭 Currently working on a **Tourism Flow** project.  
