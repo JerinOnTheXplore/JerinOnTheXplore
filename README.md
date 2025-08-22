@@ -36,7 +36,7 @@
 
 📧 Email: jerinjerin101325@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/nasrinjerin](https://www.linkedin.com/in/nasrinjerin)  
-🌐 Portfolio: [http://vivacious-rain.surge.sh](http://vivacious-rain.surge.sh)
+🌐 Portfolio: [http://vivacious-rain.surge.sh](https://jerin-portfolio-three.vercel.app/)
 
 </div>
 
@@ -101,7 +101,7 @@
   <a href="https://www.linkedin.com/in/nasrinjerin" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="http://vivacious-rain.surge.sh" target="_blank" rel="noopener noreferrer">
+  <a href="https://jerin-portfolio-three.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:jerinjerin101325@gmail.com" target="_blank" rel="noopener noreferrer">
