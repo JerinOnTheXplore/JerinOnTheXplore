@@ -36,7 +36,7 @@
 
 📧 Email: jerinjerin101325@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/nasrinjerin](https://www.linkedin.com/in/nasrinjerin)  
-🌐 Portfolio: [http://vivacious-rain.surge.sh](https://jerin-portfolio-three.vercel.app/)
+🌐 Portfolio: [https://about-jerin.vercel.app/](https://about-jerin.vercel.app/)
 
 </div>
 
