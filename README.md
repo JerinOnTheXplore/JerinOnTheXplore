@@ -101,7 +101,7 @@
   <a href="https://www.linkedin.com/in/nasrinjerin" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jerin-portfolio-three.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://about-jerin.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="mailto:jerinjerin101325@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -123,8 +123,17 @@
 
 
 ## 📌 Featured Projects
+### 1️⃣ LibraNova  
+🔹 **Description:** Next.js full-stack library management system with Firebase Authentication, MongoDB, role-based dashboards, and Stripe payments.  
 
-### 1️⃣ Tourism Website  
+🔹 **Live Demo:** [Explore Here](https://libra-nova-next-js-project.vercel.app/)  
+🔹 **Tech Stack:** ![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=flat-square&logo=nextdotjs&logoColor=000000)
+ ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+ ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 2️⃣ Tourism Website  
 🔹 **Description:** A full-stack tourism management system with React, Express, and MongoDB, featuring booking, user roles, and admin controls. 
 
 🔹 **Live Demo:** [Explore Here](https://tourism-flow.web.app)  
@@ -133,14 +142,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 2️⃣ Online Group Study 
+### 3️⃣ Online Group Study 
 🔹 **Description:** A MERN stack platform for group assignments, submission, and grading with JWT auth and dynamic routing. 
 
 🔹 **Live Demo:** [Explore Here](https://online-group-study-e3eaf.web.app)  
 🔹 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 
-### 3️⃣ Plant Care Tracker  
+### 4️⃣ Plant Care Tracker  
 🔹 **Description:** Full CRUD plant care tracker built with React and Express, featuring responsive design and personalized plant management.
 
 🔹 **Live Demo:** [Explore Here](https://plant-care-tracker-80dfe.web.app)  
@@ -148,4 +157,4 @@
  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 
-⭐ Thanks for visiting my profile! Keep exploring & keep coding! 🚀
+⭐ Thanks for visiting my profile! Keep exploring & keep coding! 
