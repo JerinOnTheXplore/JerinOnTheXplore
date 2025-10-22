@@ -3,7 +3,10 @@
 <p align="center" style="position: relative; max-width: 900px; margin: auto;">
 
  <!-- Banner Image -->
-  <img src="https://i.ibb.co/mrqPk02S/github-Cover.png" alt="Banner Image" style="width: 100%; border-radius: 15px; filter: brightness(0.8);" />
+<p align="center">
+  <img src="https://i.ibb.co/mrqPk02S/github-Cover.png" alt="Banner Image" width="100%">
+</p>
+
 
 
 <!-- About Me Section with glassmorphism card style -->
