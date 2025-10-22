@@ -2,7 +2,7 @@
 
 <p align="center" style="position: relative; max-width: 900px; margin: auto;">
 
-  <!-- Banner Image -->
+<!-- Banner Image -->
   <img src="https://ibb.co.com/ds2HFtV7" alt="Banner Image" style="width: 100%; border-radius: 15px; filter: brightness(0.8);" />
 
 
