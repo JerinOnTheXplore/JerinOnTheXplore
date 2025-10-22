@@ -1,12 +1,7 @@
-<!-- Banner with Glassmorphism overlay and floating code snippets -->
-
-<p align="center" style="position: relative; max-width: 900px; margin: auto;">
-
- <!-- Banner Image -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/mrqPk02S/github-Cover.png" alt="Banner Image" width="100%">
+  <img src="https://i.ibb.co/mrqPk02S/github-Cover.png" alt="Banner Image" width="900">
 </p>
-
 
 
 <!-- About Me Section with glassmorphism card style -->
