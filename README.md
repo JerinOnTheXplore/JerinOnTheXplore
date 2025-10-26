@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
- <img src="..." alt="Banner Image" style="width:900px; height:300px; object-fit:cover;" />
+ <img src="https://i.ibb.co/mrqPk02S/github-Cover.png" alt="Banner Image" width="900" height="300">
 </p>
 
 
