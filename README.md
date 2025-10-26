@@ -1,7 +1,13 @@
 <!-- Banner Image -->
 <p align="center">
- <img src="https://i.ibb.co/mrqPk02S/github-Cover.png" alt="Banner Image" width="900" height="900">
+  <img 
+    src="https://i.ibb.co/mrqPk02S/github-Cover.png" 
+    alt="Banner Image" 
+    width="900" 
+    style="height:auto;"
+  >
 </p>
+
 
 
 <!-- About Me Section with glassmorphism card style -->
