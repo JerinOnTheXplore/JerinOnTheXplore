@@ -1,12 +1,13 @@
 <!-- Banner Image -->
-<!-- Banner Image -->
 <p align="center">
   <img 
     src="https://i.ibb.co/mrqPk02S/github-Cover.png" 
-    alt="Banner Image" 
+    alt="Banner Image"
     width="100%"
+    style="max-width: 1200px; display:block; margin:auto;"
   />
 </p>
+
 
 <!-- About Me Section with glassmorphism card style -->
 
