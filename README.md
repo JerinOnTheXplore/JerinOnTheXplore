@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Jerin!;MERN+Stack+Learner;Frontend+Developer;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Jerin!;Frontend+Developer;MERN+Stack+Learner" alt="Typing SVG" />
 </h1>
 
 <h3 align="center"> Passionate about building clean, modern, and scalable web applications </h3>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Exploring-Next.js" />
+  <img src="https://img.shields.io/badge/Currently%20Exploring-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
 <br/>
