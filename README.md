@@ -1,12 +1,13 @@
-<!-- Banner Image -->
+<h1 align="center">Hi 👋, I'm Jerin</h1>
+<h3 align="center">A Passionate Frontend Developer</h3>
+
 <p align="center">
-  <img 
-    src="https://i.ibb.co/mrqPk02S/github-Cover.png" 
-    alt="Banner Image"
-    width="100%"
-    style="max-width: 1200px; display:block; margin:auto;"
-  />
+  🚀 Frontend: React, Next.js, Tailwind CSS <br/>
+  ⚙️ Backend: Node.js, Express.js, MongoDB <br/>
+  ☁️ Currently exploring: Next.js & DevOps basics
 </p>
+
+<hr/>
 
 
 <!-- About Me Section with glassmorphism card style -->
