@@ -1,14 +1,28 @@
-<h1 align="center">Hi 👋, I'm Jerin</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Jerin!;MERN+Stack+Developer;Frontend+%26+Backend+Engineer;Lifelong+Learner+🌱" alt="Typing SVG" />
+</h1>
+
+<h3 align="center"> Passionate about building clean, modern, and scalable web applications </h3>
+
+<br/>
 
 <p align="center">
-  🚀 Frontend: React, Next.js, Tailwind CSS <br/>
-  ⚙️ Backend: Node.js, Express.js, MongoDB <br/>
-  ☁️ Currently exploring: Next.js & DevOps basics
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TailwindCSS-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express.js-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Exploring-Next.js%20%26%20DevOps%20Basics-9cf?style=for-the-badge" />
+</p>
+
+<br/>
+
+<p align="center">
+  <i>Turning ideas into interactive experiences with code </i>
 </p>
 
 <hr/>
-
 
 <!-- About Me Section with glassmorphism card style -->
 
