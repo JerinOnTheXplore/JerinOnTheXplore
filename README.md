@@ -4,7 +4,6 @@
 
 <h3 align="center"> Passionate about building clean, modern, and scalable web applications </h3>
 
-<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TailwindCSS-blue?style=for-the-badge" />
